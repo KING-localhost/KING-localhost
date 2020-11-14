@@ -5,6 +5,8 @@
 
 <a href="https://www.youtube.com/channel/UCDlFauwtjzXK5pgNdv6BEtw"><img title="Youtube" src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube"></a>
 
+<p align="center">
+<a href="https://github.com/KING-localhost/CRACKLOK"><img title="CRACKLOK" src="https://github-readme-stats.vercel.app/api/pin/?username=KING-localhost&repo=CRACKLOK&theme=dark"></a>
 <!--
 **KING-localhost/KING-localhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
