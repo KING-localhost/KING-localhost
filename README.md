@@ -1,4 +1,6 @@
-### Hi there 👋
+# WELCOME TO MY PROFILE
+<a href="https://github.com/KING-localhost"><img title="KING-localhost" src="https://github-readme-stats.vercel.app/api?username=KING-localhost&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
 
 <!--
 **KING-localhost/KING-localhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
