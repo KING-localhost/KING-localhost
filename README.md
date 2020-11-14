@@ -1,5 +1,5 @@
 # WELCOME TO MY PROFILE
-![InShot_20201012_005058771](https://user-images.githubusercontent.com/71694553/99152857-15c52d80-26d7-11eb-95ed-eccd8ac29753.jpg)
+
 <a href="https://github.com/KING-localhost"><img title="KING-localhost" src="https://github-readme-stats.vercel.app/api?username=KING-localhost&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
