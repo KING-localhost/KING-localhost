@@ -1,6 +1,6 @@
 # WELCOME TO MY PROFILE
 
-<a href="https://github.com/KING-localhost"><img title="KING-localhost" src="https://github-readme-stats.vercel.app/api?username=KING-localhost&show_icons=true&include_all_commits=true&theme=chartreuse-blue-green&red&cache_seconds=3200"></a>
+<a href="https://github.com/KING-localhost"><img title="KING-localhost" src="https://github-readme-stats.vercel.app/api?username=KING-localhost&show_icons=true&include_all_commits=true&theme=chartreuse-blue-green&cache_seconds=3200"></a>
 </p>
 
 <a href="https://www.youtube.com/channel/UCDlFauwtjzXK5pgNdv6BEtw"><img title="Youtube" src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube"></a>
