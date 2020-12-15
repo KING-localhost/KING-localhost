@@ -1,4 +1,6 @@
-# WELCOME TO MY PROFIL
+<p align="center"><a href="https://github.com/KING-localhost"><img src="https://user-images.githubusercontent.com/49580304/94988627-6f0c3f80-0523-11eb-96d9-78ba048ed2c1.jpg" alt="Bt">
+</p>
+
 <p align="center">
 <a href="https://github.com/KING-localhost"><img title="KING-localhost" src="https://github-readme-stats.vercel.app/api?username=KING-localhost&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
