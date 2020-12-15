@@ -8,6 +8,7 @@
 <a href="https://www.youtube.com/channel/UCDlFauwtjzXK5pgNdv6BEtw"><img title="YouTube" src="https://img.shields.io/badge/YouTube-KING localhost-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
+<p align="center">
 <a href="https://wa.me/+13474742185?text=Hallo"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 
 <p align="center">
