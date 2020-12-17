@@ -18,6 +18,10 @@
   
   <p align="center">
 <a href="https://github.com/KING-localhost/pishFF"><img title="pishFF" src="https://github-readme-stats.vercel.app/api/pin/?username=KING-localhost&repo=pishFF&theme=dark"></a>
+  
+    <p align="center">
+<a href="https://github.com/KING-localhost/TERDOS"><img title="pishFF" src="https://github-readme-stats.vercel.app/api/pin/?username=KING-localhost&repo=TERDOS&theme=dark"></a>
+  
 <!--
 **KING-localhost/KING-localhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
