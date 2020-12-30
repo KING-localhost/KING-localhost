@@ -14,6 +14,9 @@
 <a href="https://wa.me/+13474742185?text=Hallo"><img title="whatsapp" src="https://img.shields.io/badge/contact me-number-red?style=for-the-badge&logo=whatsapp"></a>
 <a href="https://chat.whatsapp.com/LFyNvLb6hHpIhpvhv8a4v7"><img title="whatsapp" src="https://img.shields.io/badge/group-whatsapp-brightgreen?style=for-the-badge&logo=whatsapp"></a>
 
+<p align="center">
+<a href="https://github.com/KING-localhost/pishPUBG"><img title="pishPUBG" src="https://github-readme-stats.vercel.app/api/pin/?username=KING-localhost&repo=pishPUBG&theme=dark"></a>
+  
 
 <p align="center">
 <a href="https://github.com/KING-localhost/CRACKLOK"><img title="CRACKLOK" src="https://github-readme-stats.vercel.app/api/pin/?username=KING-localhost&repo=CRACKLOK&theme=dark"></a>
