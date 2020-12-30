@@ -18,9 +18,9 @@
 <p align="center">
 <a href="https://github.com/KING-localhost/CRACKLOK"><img title="CRACKLOK" src="https://github-readme-stats.vercel.app/api/pin/?username=KING-localhost&repo=CRACKLOK&theme=dark"></a>
   
-<p align="center">
-<a href="https://github.com/KING-localhost/pishFF"><img title="pishFF" src="https://github-readme-stats.vercel.app/api/pin/?username=KING-localhost&repo=pishFF&theme=dark"></a>
-  
+
+
+
 <p align="center">
 <a href="https://github.com/KING-localhost/TERDOS"><img title="pishFF" src="https://github-readme-stats.vercel.app/api/pin/?username=KING-localhost&repo=TERDOS&theme=dark"></a>
   
