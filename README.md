@@ -12,9 +12,8 @@
 
 <p align="center">
 <a href="https://wa.me/+13474742185?text=Hallo"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/+13474742185?text=Hallo"><img title="group-whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 
-<p align="center">
-<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Cmunity Badge"/></a><br>
 
 <p align="center">
 <a href="https://github.com/KING-localhost/CRACKLOK"><img title="CRACKLOK" src="https://github-readme-stats.vercel.app/api/pin/?username=KING-localhost&repo=CRACKLOK&theme=dark"></a>
