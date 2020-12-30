@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://wa.me/+13474742185?text=Hallo"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://wa.me/+13474742185?text=Hallo"><img title="group-whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/+13474742185?text=Hallo"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-red?style=for-the-badge&logo=group-whatsapp"></a>
 
 
 <p align="center">
