@@ -9,11 +9,12 @@
 <a href="https://github.com/KING-localhost"><img title="YouTube" src="https://img.shields.io/badge/KING-localhost-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://www.youtube.com/channel/UCDlFauwtjzXK5pgNdv6BEtw"><img title="YouTube" src="https://img.shields.io/badge/YouTube-KING localhost-red?style=for-the-badge&logo=Youtube"></a>
 </p>
-<p align="center">
-<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a><br>
 
 <p align="center">
 <a href="https://wa.me/+13474742185?text=Hallo"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+
+
+<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Cmunity Badge"/></a><br>
 
 <p align="center">
 <a href="https://github.com/KING-localhost/CRACKLOK"><img title="CRACKLOK" src="https://github-readme-stats.vercel.app/api/pin/?username=KING-localhost&repo=CRACKLOK&theme=dark"></a>
