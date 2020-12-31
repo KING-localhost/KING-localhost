@@ -15,6 +15,9 @@
 <a href="https://chat.whatsapp.com/LFyNvLb6hHpIhpvhv8a4v7"><img title="whatsapp" src="https://img.shields.io/badge/group-whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 
 <p align="center">
+<a href="https://github.com/KING-localhost/pishFF"><img title="pishFF" src="https://github-readme-stats.vercel.app/api/pin/?username=KING-localhost&repo=pishFF&theme=dark"></a>
+
+<p align="center">
 <a href="https://github.com/KING-localhost/pishPUBG"><img title="pishPUBG" src="https://github-readme-stats.vercel.app/api/pin/?username=KING-localhost&repo=pishPUBG&theme=dark"></a>
   
 
