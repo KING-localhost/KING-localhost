@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://github.com/KING-localhost"><img title="YouTube" src="https://img.shields.io/badge/KING-localhost-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://www.youtube.com/channel/UCDlFauwtjzXK5pgNdv6BEtw"><img title="YouTube" src="https://img.shields.io/badge/YouTube-KING localhost-cyan?style=for-the-badge&logo=Youtube"></a>
+<a href="https://www.youtube.com/channel/UCDlFauwtjzXK5pgNdv6BEtw"><img title="YouTube" src="https://img.shields.io/badge/YouTube-KING localhost-yelow?style=for-the-badge&logo=Youtube"></a>
 </p>
 
 <p align="center">
