@@ -9,8 +9,9 @@
 <a href="https://github.com/KING-localhost"><img title="YouTube" src="https://img.shields.io/badge/KING-localhost-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://www.youtube.com/channel/UCDlFauwtjzXK5pgNdv6BEtw"><img title="YouTube" src="https://img.shields.io/badge/YouTube-KING localhost-yellow?style=for-the-badge&logo=Youtube"></a>
 </p>
-
-<br><marquee onmouseout=this.start() onmouseover=this.stop()  scrolldelay='10'><font face="Audiowide" size="3" color="white">DONATION</font></marquee>
+<p align="center">
+<br><marquee onmouseout=this.start() onmouseover=this.stop()  scrolldelay='10'><font face="Audiowide" size="3" color="white">BUY SCRIPT</font></marquee>
+<br>
 <a href="https://link.dana.id/minta/2nvc2l345rf"><img title="dana" src="https://img.shields.io/badge/dana-blue?style=for-the-badge&logo=dana"></a> 
 <br>
 <p align="center">
