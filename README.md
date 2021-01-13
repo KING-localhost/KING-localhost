@@ -24,7 +24,7 @@
 
 
 
-<p align="center">
+
 <a href="https://paypal.me/Hengkara?locale.x=id_ID"><img title="paypal" src="https://img.shields.io/badge/paypal-blue?style=for-the-badge&logo=paypal"></a> 
 
 
