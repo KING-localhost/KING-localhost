@@ -16,9 +16,9 @@
 
 <p align="center">
 <br><marquee onmouseout=this.start() onmouseover=this.stop()  scrolldelay='10'><font face="Audiowide" size="3" color="white">BUY SCRIPT</font></marquee>
-<br>
+
 <a href="https://link.dana.id/minta/2nvc2l345rf"><img title="dana" src="https://img.shields.io/badge/dana-blue?style=for-the-badge&logo=dana"></a> 
-<br>
+
 
 
 
