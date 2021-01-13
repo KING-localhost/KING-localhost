@@ -22,10 +22,10 @@
 <p align="center">
 <br><marquee onmouseout=this.start() onmouseover=this.stop()  scrolldelay='10'><font face="Audiowide" size="3" color="white">DONATION</font></marquee>
 <p align="center">
-
-
-
 <a href="https://paypal.me/Hengkara?locale.x=id_ID"><img title="paypal" src="https://img.shields.io/badge/paypal-blue?style=for-the-badge&logo=paypal"></a> 
+
+
+
 
 
 <p align="center">
