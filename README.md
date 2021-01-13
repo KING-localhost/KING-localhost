@@ -14,9 +14,9 @@
 <a href="https://wa.me/+13474742185?text=Hallo"><img title="whatsapp" src="https://img.shields.io/badge/contact me-number-red?style=for-the-badge&logo=whatsapp"></a>
 <a href="https://chat.whatsapp.com/LFyNvLb6hHpIhpvhv8a4v7"><img title="whatsapp" src="https://img.shields.io/badge/group-whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 
-<p align="center">
-<br><marquee onmouseout=this.start() onmouseover=this.stop()  scrolldelay='10'><font face="Audiowide" size="3" color="white">BUY SCRIPT</font></marquee>
 
+<br><marquee onmouseout=this.start() onmouseover=this.stop()  scrolldelay='10'><font face="Audiowide" size="3" color="white">BUY SCRIPT</font></marquee>
+<p align="center">
 <a href="https://link.dana.id/minta/2nvc2l345rf"><img title="dana" src="https://img.shields.io/badge/dana-blue?style=for-the-badge&logo=dana"></a> 
 
 
